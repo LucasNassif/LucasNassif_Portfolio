@@ -55,7 +55,7 @@ const Portfolio: NextPage = () => {
                   <img src="/imgs/portfolio/3.jpg" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
-                  <h4>Web Design</h4>
+                  <h4>Em Progresso...</h4>
                   <div className="icon">
                     <i className="fa fa-search" />
                   </div>
@@ -73,7 +73,7 @@ const Portfolio: NextPage = () => {
                   <img src="/imgs/portfolio/4.jpg" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
-                  <h4>Banner Design</h4>
+                  <h4>Em Progresso...</h4>
                   <div className="icon">
                     <i className="fa fa-search" />
                   </div>
@@ -88,7 +88,7 @@ const Portfolio: NextPage = () => {
                   <img src="/imgs/portfolio/5.jpg" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
-                  <h4>Wordpress</h4>
+                  <h4>Em Progresso...</h4>
                   <div className="icon">
                     <i className="fa fa-search" />
                   </div>
@@ -103,7 +103,7 @@ const Portfolio: NextPage = () => {
                   <img src="/imgs/portfolio/6.jpg" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
-                  <h4>Web Design</h4>
+                  <h4>Em Progresso...</h4>
                   <div className="icon">
                     <i className="fa fa-search" />
                   </div>

@@ -9,7 +9,7 @@ export default async function Home() {
           {/* imagem da tela de inicio*/}
             <img
               src="/imgs/asda.png"
-              alt="Al Siam Profile"
+              alt="lucas nassif profile"
               className="shadow-dark"
             />
             <h1>Lucas Nassif</h1>

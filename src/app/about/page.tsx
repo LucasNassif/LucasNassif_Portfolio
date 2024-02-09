@@ -108,7 +108,7 @@ const About: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> 08/2023 até o momento
+                            <i className="fa fa-calendar" /> 08/2023 até o presente
                           </h6>
                           <h4 className="timeline-title">
                           Graduação de Sistemas de Informação
