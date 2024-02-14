@@ -17,7 +17,7 @@ const Contact: NextPage = () => {
                 <i className="fa fa-map-marker" />
               </div>
               <h4>Endereço</h4>
-              <p>Belo Horizonte, Brasil</p>
+              <p>Belo Horizonte, Minas Gerais - Brasil</p>
             </div>
             {/* final do item de informação de contato */}
             {/* item de informação de contato */}

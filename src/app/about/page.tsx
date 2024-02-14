@@ -58,7 +58,7 @@ const About: NextPage = () => {
                       <a
                         href="public\docs\resume.pdf"
                         className="btn"
-                        download={"public\docs\resume.pdf"}
+                        download={""}
                       >
                         Download CV
                       </a>
