@@ -56,9 +56,9 @@ const About: NextPage = () => {
                   <div className="row">
                     <div className="buttons padd-15">
                       <a
-                        href="/assets/docs/resume.pdf"
-                        target="_target"
+                        href="public\docs\resume.pdf"
                         className="btn"
+                        download={"public\docs\resume.pdf"}
                       >
                         Download CV
                       </a>
@@ -68,31 +68,31 @@ const About: NextPage = () => {
                 <div className="skills padd-15">
                   <div className="row">
                     <div className="skill-item padd-15">
-                      <h5>Html5</h5>
+                      <h5>HTML5</h5>
                       <div className="progress">
-                        <div className="progress-in" style={{ width: "80%" }} />
-                        <div className="skill-percent">80%</div>
+                        <div className="progress-in" style={{ width: "100%" }} />
+                        
                       </div>
                     </div>
                     <div className="skill-item padd-15">
-                      <h5>Css3</h5>
+                      <h5>CSS3</h5>
                       <div className="progress">
-                        <div className="progress-in" style={{ width: "60%" }} />
-                        <div className="skill-percent">60%</div>
+                        <div className="progress-in" style={{ width: "100%" }} />
+                        
                       </div>
                     </div>
                     <div className="skill-item padd-15">
-                      <h5>Javascript</h5>
+                      <h5>jAVASCRIPT</h5>
                       <div className="progress">
-                        <div className="progress-in" style={{ width: "50%" }} />
-                        <div className="skill-percent">50%</div>
+                        <div className="progress-in" style={{ width: "100%" }} />
+                        
                       </div>
                     </div>
                     <div className="skill-item padd-15">
-                      <h5>Java</h5>
+                      <h5>JAVA</h5>
                       <div className="progress">
-                        <div className="progress-in" style={{ width: "70%" }} />
-                        <div className="skill-percent">70%</div>
+                        <div className="progress-in" style={{ width: "100%" }} />
+                        
                       </div>
                     </div>
                   </div>
@@ -141,7 +141,7 @@ const About: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> 2017 a 2022
+                            <i className="fa fa-calendar" /> 01/2018 a 12/2022
                           </h6>
                           <h4 className="timeline-title">
                             Graduação em Direito
@@ -166,7 +166,7 @@ const About: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> 2023 até o presente
+                            <i className="fa fa-calendar" /> 08/2023 até o presente
                           </h6>
                           <h4 className="timeline-title">Auxiliar de Suporte Técnico</h4>
                           <p className="timeline-text">

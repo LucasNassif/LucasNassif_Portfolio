@@ -7,13 +7,13 @@ const Portfolio: NextPage = () => {
         <div className="container">
           <div className="row">
             <div className="section-title padd-15">
-              <h2>Portfolio</h2>
+              <h2>Portfólio</h2>
             </div>
           </div>
           <div className="row">
             <div className="portfolio-filter padd-15">
               <button type="button" className="active" data-filter="all">
-                All
+                Todos os Projetos
               </button>
             </div>
           </div>
