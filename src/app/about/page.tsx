@@ -56,44 +56,12 @@ const About: NextPage = () => {
                   <div className="row">
                     <div className="buttons padd-15">
                       <a
-                        href="public\docs\resume.pdf"
+                        href="/docs/resume.pdf"
                         className="btn"
-                        download={""}
+                        download="resume.pdf"
                       >
                         Download CV
                       </a>
-                    </div>
-                  </div>
-                </div>
-                <div className="skills padd-15">
-                  <div className="row">
-                    <div className="skill-item padd-15">
-                      <h5>HTML5</h5>
-                      <div className="progress">
-                        <div className="progress-in" style={{ width: "100%" }} />
-                        
-                      </div>
-                    </div>
-                    <div className="skill-item padd-15">
-                      <h5>CSS3</h5>
-                      <div className="progress">
-                        <div className="progress-in" style={{ width: "100%" }} />
-                        
-                      </div>
-                    </div>
-                    <div className="skill-item padd-15">
-                      <h5>jAVASCRIPT</h5>
-                      <div className="progress">
-                        <div className="progress-in" style={{ width: "100%" }} />
-                        
-                      </div>
-                    </div>
-                    <div className="skill-item padd-15">
-                      <h5>JAVA</h5>
-                      <div className="progress">
-                        <div className="progress-in" style={{ width: "100%" }} />
-                        
-                      </div>
                     </div>
                   </div>
                 </div>
