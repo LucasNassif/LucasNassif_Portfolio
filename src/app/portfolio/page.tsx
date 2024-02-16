@@ -27,9 +27,9 @@ const Portfolio: NextPage = () => {
                 <div className="portfolio-info">
                   <h4>Html-Css-Js</h4>
                   <div className="icon">
-                  <a href="https://pagina-one-piece.vercel.app/" target="_blank">
-                  <i className="fa fa-search" />
-                   </a>              
+                    <a href="https://pagina-one-piece.vercel.app/" target="_blank">
+                      <i className="fa fa-search" />
+                    </a>              
                   </div>
                 </div>
               </div>
