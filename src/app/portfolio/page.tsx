@@ -25,7 +25,7 @@ const Portfolio: NextPage = () => {
                   <img src="/imgs/portfolio/1.jpg" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
-                  <h4>Html-Css-Js</h4>
+                  <h4></h4>
                   <div className="icon">
                     <a href="https://pagina-one-piece.vercel.app/" target="_blank">
                       <i className="fa fa-search" />
@@ -42,7 +42,7 @@ const Portfolio: NextPage = () => {
                   <img src="/imgs/portfolio/2.jpg" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
-                  <h4>Java</h4>
+                  <h4>Em Progresso...</h4>
                   <div className="icon">
                     <i className="fa fa-search" />
                   </div>
